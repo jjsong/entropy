@@ -1,4 +1,4 @@
-# information theory
+# information theory  
 
 ![](./images/entropy01.jpg)
 
@@ -18,3 +18,6 @@
 
 # reference 
 
+https://en.wikipedia.org/wiki/Entropy
+
+https://www.youtube.com/watch?v=gBKBKfikLbo
